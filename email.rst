@@ -7,7 +7,7 @@ How to Send an Email
 Symfony provides a mailer feature based on the popular `Swift Mailer`_ library
 via the `SwiftMailerBundle`_. This mailer supports sending messages with your
 own mail servers as well as using popular email providers like `Mandrill`_,
-`SendGrid`_, and `Amazon SES`_.
+`SendGrid`_, `SendinBlue`_, and `Amazon SES`_.
 
 Installation
 ------------
@@ -165,6 +165,7 @@ Learn more
 .. _`SwiftMailerBundle`: https://github.com/symfony/swiftmailer-bundle
 .. _`Creating Messages`: https://swiftmailer.symfony.com/docs/messages.html
 .. _`Mandrill`: https://mandrill.com/
+.. _`SendinBlue`: https://sendinblue.com/
 .. _`SendGrid`: https://sendgrid.com/
 .. _`Amazon SES`: http://aws.amazon.com/ses/
 .. _`generate an App password`: https://support.google.com/accounts/answer/185833
